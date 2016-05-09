@@ -1,0 +1,2 @@
+# now
+show local date
